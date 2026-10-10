@@ -1,0 +1,66 @@
+[
+  {
+    "id": "aws-001",
+    "question": "What AWS service provides object storage?",
+    "expected_document": "aws.txt",
+    "expected_answer_contains": [
+      "Amazon Simple Storage Service"
+    ]
+  },
+  {
+    "id": "aws-002",
+    "question": "What AWS service provides virtual machines?",
+    "expected_document": "aws.txt",
+    "expected_answer_contains": [
+      "Amazon Elastic Compute Cloud"
+    ]
+  },
+  {
+    "id": "aws-003",
+    "question": "What AWS service provides logically isolated networking?",
+    "expected_document": "aws.txt",
+    "expected_answer_contains": [
+      "Amazon Virtual Private Cloud"
+    ]
+  },
+  {
+    "id": "aws-004",
+    "question": "What AWS service controls access to AWS resources?",
+    "expected_document": "aws.txt",
+    "expected_answer_contains": [
+      "AWS Identity and Access Management"
+    ]
+  },
+  {
+    "id": "k8s-001",
+    "question": "What is Kubernetes?",
+    "expected_document": "kubernetes.md",
+    "expected_answer_contains": [
+      "container orchestration"
+    ]
+  },
+  {
+    "id": "k8s-002",
+    "question": "What are the smallest deployable units in Kubernetes?",
+    "expected_document": "kubernetes.md",
+    "expected_answer_contains": [
+      "Pods"
+    ]
+  },
+  {
+    "id": "k8s-003",
+    "question": "What provides stable networking for Kubernetes workloads?",
+    "expected_document": "kubernetes.md",
+    "expected_answer_contains": [
+      "Services"
+    ]
+  },
+  {
+    "id": "k8s-004",
+    "question": "What manages replicated application workloads in Kubernetes?",
+    "expected_document": "kubernetes.md",
+    "expected_answer_contains": [
+      "Deployments"
+    ]
+  }
+]

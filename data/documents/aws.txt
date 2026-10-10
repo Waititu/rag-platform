@@ -1,0 +1,9 @@
+Amazon Web Services provides cloud computing infrastructure and managed services.
+
+Amazon Elastic Compute Cloud provides virtual machines.
+
+Amazon Simple Storage Service provides object storage.
+
+Amazon Virtual Private Cloud provides logically isolated networking.
+
+AWS Identity and Access Management controls access to AWS resources.
